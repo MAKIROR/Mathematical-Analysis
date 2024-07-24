@@ -2,6 +2,22 @@
 文章的数学符号约定（更新中）
 <hr>
 
+## 集合运算符号
+
+- **并（Union）**: $A \cup B$
+- **交（Intersection）**: $A \cap B$
+- **差（Set Difference）**: $A \backslash B$ 或 $A - B$
+- **补（Complement）**: $A^c$
+- **笛卡尔积（Cartesian Product）**: $A \times B$
+
+## 集合关系符号
+
+- **等于（Equality）**: $A = B$
+- **子集（Subset）**: $A \subseteq B$
+- **真子集（Proper Subset）**: $A \subset B$
+- **超集（Superset）**: $A \supseteq B$
+- **真超集（Proper Superset）**: $A \supset B$
+
 ### 基本运算符号
 
 - **加法（Addition）**: $a + b$
